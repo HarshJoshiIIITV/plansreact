@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/plansreact/static/css/main.80e4a377.chunk.css",
+    "main.js": "/plansreact/static/js/main.1a49da45.chunk.js",
+    "main.js.map": "/plansreact/static/js/main.1a49da45.chunk.js.map",
+    "runtime~main.js": "/plansreact/static/js/runtime~main.88b3151f.js",
+    "runtime~main.js.map": "/plansreact/static/js/runtime~main.88b3151f.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/plansreact/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.23c60ab1.chunk.js": "/plansreact/static/js/2.23c60ab1.chunk.js",
+    "static/js/2.23c60ab1.chunk.js.map": "/plansreact/static/js/2.23c60ab1.chunk.js.map",
+    "index.html": "/plansreact/index.html",
+    "precache-manifest.79ce96264957072219bcf647b345cd3f.js": "/plansreact/precache-manifest.79ce96264957072219bcf647b345cd3f.js",
+    "service-worker.js": "/plansreact/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/plansreact/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.80e4a377.chunk.css.map": "/plansreact/static/css/main.80e4a377.chunk.css.map"
+  }
+}
