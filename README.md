@@ -1,4 +1,4 @@
-**HOW TO USE IT **
+*HOW TO USE IT*
 
 1. Type your plan and press enter or submit <br>
 2. You will se that your plan is added in list<br>
